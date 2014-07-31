@@ -1,6 +1,6 @@
 {
   "name": "hexo-theme-xcatliu",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A brand new default theme for [Hexo].",
   "main": "index.js",
   "scripts": {
