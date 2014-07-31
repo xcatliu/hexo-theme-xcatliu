@@ -1,8 +1,8 @@
 {
   "name": "hexo-theme-xcatliu",
   "version": "0.0.1",
-  "description": "A brand new default theme for [Hexo].",
-  "main": "index.js",
+  "description": "The hexo theme for http://xcatliu.com",
+  "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
