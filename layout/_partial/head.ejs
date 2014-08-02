@@ -1,5 +1,5 @@
 <meta charset="utf-8">
-<title><% if (page.title){ %><%= page.title %> | <% } %><%= config.title %></title>
+<title><% if (page.head_title){ %><%= page.head_title %> | <% } else if (page.title) { %><%= page.title %> | <% } %><%= config.title %></title>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <link rel="icon" type="image/png" href="<%- url_for('favicon.png') %>">
 <%- css('css/style') %>
